@@ -5,6 +5,10 @@ name = "pypi"
 
 [packages]
 pyqt5 = "*"
+poetry = "*"
+plotly = "*"
+pandas = "*"
+requests = "*"
 
 [dev-packages]
 
